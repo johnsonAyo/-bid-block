@@ -1,1 +1,1 @@
-# -bid-block
+# bid-block
